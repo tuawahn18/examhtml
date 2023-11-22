@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;1,100&family=Mr+Dafoe&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400;1,500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    align-items: center;
+    background: white;
+    display: flex;
+    justify-content: center;
+
+}
+.card{
+    background: rgb(28, 149, 224);
+    width: 350px;
+    height: 500px;
+}
+
+.text1{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20px;
+}
+
+.content{
+    background: white;
+    padding: 15px 10px 5px 10px;
+    margin: 30px 30px 50px 30px;
+    height: 80%;
+}
+
+.gender{
+    margin-left:20px;
+    margin-top:15px;
+    padding: 10px 0px 25px 0px;
+}
+
+.address{
+    margin-left:10px;
+    height: 60px;
+    width: 92%;
+}
+
+
